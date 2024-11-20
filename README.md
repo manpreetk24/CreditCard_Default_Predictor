@@ -1,12 +1,15 @@
 # CreditCard_Default_Predictor
 
 Overview
+
 The Credit Card Default Predictor uses machine learning techniques to predict the likelihood of customers defaulting on their credit card payments. The project aims to assist financial institutions in assessing credit risk and taking preventive measures to reduce financial losses.
 
 Problem Statement
+
 Credit card defaults pose a significant financial risk to institutions. Predicting defaults accurately allows financial companies to adjust credit policies, reduce risks, and improve customer management. This project focuses on analyzing historical customer data to create a predictive model.
 
 Aim and Objectives
+
 The project aims to build a robust ensemble-based machine learning system for accurate prediction of credit card defaults. Key objectives include:
 
 -Combining machine learning algorithms like Random Forest, XGBoost, Artificial Neural Networks (ANN), Support Vector Machines (SVM), and Logistic Regression.
